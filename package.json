@@ -1,0 +1,17 @@
+{
+  "name": "Lesson-37",
+  "version": "1.0.0",
+  "description": "A TypeScript project with functions, classes, decorators, and namespaces",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "ts-node": "^10.0.0",
+    "@types/node": "^18.0.0"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
